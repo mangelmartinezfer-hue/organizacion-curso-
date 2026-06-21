@@ -1,0 +1,57 @@
+# Entorno virtual
+venv/
+env/
+
+# Claves y secretos (NUNCA subir)
+.env
+*.env
+.env.local
+.env.production
+secrets.json
+config/secrets.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datos (archivos pesados o generados)
+data/raw/
+data/cache/
+*.csv
+*.parquet
+*.feather
+*.h5
+
+# Imagenes generadas
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# HTML exportados
+*.html
+
+# Logs
+logs/
+*.log
+
+# Resultados de backtesting
+results/
+*.pkl
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db

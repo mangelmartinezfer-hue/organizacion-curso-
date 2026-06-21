@@ -1,0 +1,44 @@
+# Librerias para Trading
+
+# Datos y calculo numerico
+numpy
+pandas
+scipy
+
+# Analisis tecnico
+ta
+ta-lib
+pandas-ta
+tulipy
+
+# Visualizacion
+matplotlib
+plotly
+mplfinance
+
+# Descarga de datos de mercado
+yfinance
+ccxt
+alpha_vantage
+pandas-datareader
+
+# Machine Learning aplicado al trading
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+torch
+
+# Backtesting
+backtrader
+vectorbt
+bt
+
+# Broker / ejecucion de ordenes
+alpaca-trade-api
+ib-insync
+
+# Utilidades
+requests
+python-dotenv
+jupyterlab
